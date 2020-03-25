@@ -20,7 +20,7 @@
 */
 
 /* includes */
-#include <libpq-fe.h>
+#include <postgresql/libpq-fe.h>
 
 /* defines */
 #define REPROCESS_SPECIFIC	1
